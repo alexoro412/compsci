@@ -1,0 +1,26 @@
+import java.io.*;
+import java.util.*;
+public class LoginChecker{
+
+public static void main(String[] args) throws FileNotFoundException {
+
+Scanner keyboard = new Scanner(System.in);
+Scanner inFile = new Scanner(new File("usernames"));
+
+String usernames = inFile.nextLine();
+System.out.println(usernames);
+
+System.out.print("Username: ");
+String username = keyboard.nextLine();
+System.out.print("Password: ");
+String password = keyboard.nextLine();
+
+inFile = new Scanner(new File(username));
+String pass = inFile.nextLine();
+
+System.out.println(pass.equals(password));
+
+
+}
+
+}

@@ -1,0 +1,51 @@
+## What I already knew:
+ - Basic HTML
+ 	 - simplest of tags in most cases
+ - some CSS
+   - Mostly messing around and googling until something worked
+ - Some simple bootstrap, mostly working with copied and pasted components from the bootstrap website
+ - A little javascript with some jquery
+ - in terms of design principles, I was very fond of googles material design, and never really tried to make my own things
+
+## What I learned
+ - Better HTML
+   - more meaningful tags: nav, article
+	 - properly using spans instead of divs
+   - Tables!
+     - relative sizing without going insane
+     - Show shop page
+ - Better CSS
+   - different selectors that can access certain elements
+	 - css animations with keyframes
+	 - transition -- ended up using these
+	 - vw & vh units
+	 - better practice with classes
+	   - making a general shadow class instead of adding a shadow to every class that would have one
+	 - responsive design and hiding items at different heights
+ - Actual bootstrap
+   - xs vs. sm vs. md vs. lg
+ - using js and json for populating the page
+   - show shop page again
+   - sample code page as well
+ - SCSS
+   - Modifying bootflat theme
+ - dealing with the client
+   - color schemes... don't change them whenever they want
+   - give them options
+   - hosting on github really helped
+ - design principles in general
+   - verbs
+   - rule of thirds
+
+## Process
+ - Most of my work at the beginning of the week, and then on the weekends
+ - I tried to check in with my client at least once a week
+ - barriers:
+   - custom non-bootstrap elements with responsiveness
+   - slow response on client content/feedback
+   - client only seeing a color scheme he wanted to change and not looking at the actual content and such
+   - working in raw html
+   - sometimes having something just not work
+ - most used sites:
+   - stack overflow
+   - w3schools

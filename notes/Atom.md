@@ -10,18 +10,29 @@
  - HST 7: DONE
 
  - W:
-   - Make New changes
-
+   - #a52b27 -> #FF802B
+   - #752927 -> #802BFF
+   - Fix main BaseBoard
+   - Talk about an actual server setup
+   
+ - C:
+   - Algorithms
+   - Data Structures
+   - Threading
+   - Memory Management
+   - Specialties
+   - Practical Programming
+   - Servers/APIs
 ---
 ## Tomorrow
-7: READY
-2: READY
-3: NOT READY
-5: READY
-6: READY
-
 1: READY
+3: NOT READY (TEST)
 4: READY
+6: READY
+7: NOT READY
+
+2: READY
+5: READY
 
 
 ## English paper mistakes

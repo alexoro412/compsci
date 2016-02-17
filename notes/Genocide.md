@@ -85,7 +85,7 @@
    - Borders were drawn
    - Rwanda one of the last
      - Landlocked, jungle
- - Race Science -- Very popular in Europe (justified colonisation)
+ - Race Science -- Very popular in Europe (justified colonization)
    - Physical measurements/specification + behavior "analysis"
      - "superiority"
    - Tutsi considered "whiter, more european"
@@ -229,6 +229,32 @@
 ### Collapse
  - Rwanda overpopulated
  - Not enough farmable land and food
+
+### Post Genocide
+| All is good | Not ok |
+| :---------- | :----- |
+| Outside Appearance | Econonmy (Aid) |
+| Economy -> Energy | Congo |
+| infrastructure | faking forgiveness |
+| local international political station | culture of obedience |
+| Decrease in crime | authoritarian |
+| Healthcare | |
+| Population | &nbsp; |
+
+ - First election in 2003
+ - Democracy didn't have the same effect in Rwanda
+
+
+#### Gacaca Courts
+| positive | negative |
+| :-- | :-- |
+| moving on | Not full confessions |
+| foundation of trust -> confession | Fair justice |
+| Truth | Corruption and qualifications |
+| reconciliation | lack of detail and procedures |
+| closure | lack of rights for accused |
+| economy | privacy for witnesses |
+| effective | |
 
 ---
 

@@ -1,0 +1,27 @@
+sourceSets.main.java.srcDirs = [ "src/" ]
+
+sourceCompatibility = '1.7'
+[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
+
+ext {
+	mainClassName = "com.udacity.gamedev.firstdemo.IOSLauncher"
+}
+
+launchIPhoneSimulator.dependsOn build
+launchIPadSimulator.dependsOn build
+launchIOSDevice.dependsOn build
+createIPA.dependsOn build
+
+
+robovm {
+    iosSignIdentity = 'iPhone Developer: zyacir@gmail.com (R2LNV2L924)'
+    iosProvisioningProfile = 'com.zyacir.game.thing'
+    iosSkipSigning = true
+    stdoutFifo = ""
+    stderrFifo = ""
+}
+
+eclipse.project {
+    name = appName + "-ios"
+    natures 'org.robovm.eclipse.RoboVMNature'
+}

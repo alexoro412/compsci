@@ -1,38 +1,48 @@
 # Dashboard
 ---
 ## Homework
- - ENG 1: 17-18
+ - ENG 1: Study Vocab & Grammar Book
  - PHY 2: DONE
- - ALG 3: Study, packets
- - -CS 4: HW
+ - ALG 3: NONE
+ - -CS 4: HW and Lab
  - ZHO 5: DONE
  - OFF 6: NONE
- - HST 7: DONE
+ - HST 7: Chapter 5
 
  - W:
    - #a52b27 -> #FF802B
    - #752927 -> #802BFF
    - Fix main BaseBoard
    - Talk about an actual server setup
-   
+
  - C:
    - Algorithms
+     - Seam Carving with Dijkstra
+       - Java BufferedImage/Image
+       - Step 1: Calculate energies (output image with energies)
+       - Step 2: Calculate Seams (output image with seams)
+     - Pathfinding in games
+       - Custom navmesh
+       - Tile based path finding
+   - Rewrite KSP helper (not in haskell)
+     - Java applet -- Or API
    - Data Structures
    - Threading
+     - Java Threading
    - Memory Management
    - Specialties
    - Practical Programming
    - Servers/APIs
 ---
 ## Tomorrow
+5: NOT READY
+7: READY
 1: READY
-3: NOT READY (TEST)
+3: READY
 4: READY
-6: READY
-7: NOT READY
 
 2: READY
-5: READY
+6: READY 
 
 
 ## English paper mistakes

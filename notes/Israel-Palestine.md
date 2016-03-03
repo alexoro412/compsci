@@ -82,6 +82,19 @@
  - The oil that the Arabs have could pay for better conditions for the Palestinian Refugees
  - Infiltrators - term for Palestinians who returned to Israel
  - Massive discrimination against Palestinians
+ - 700,000 Refugees (3 million today)
+   - let them return - **NO**
+     - Security concerns
+     - resource concerns
+     - "strength"
+   - Absentee's property law 1950
+     - Confiscated land and housing from those who fled
+ - Start of settlements by August 1949 (over 150 settlements)
+   - new Immigrant homes
+ - 150,000 Arabs remained
+   - increase in discrimination
+   - constitution "Jewish state"
+   - "non-Jew" = 2nd class citizen
 
 ## Israel declaration of Independence
  - May 14, 1948
@@ -91,3 +104,13 @@
  - Arabs (Egypt, Transjordan, Syria, Iraq, etc..){Arab League}
    - respond w/ war
    - war ends april '49
+
+## Egypt
+ - Egyptian revolution of 1952
+   - expelled Great Britain
+   - ended monarchy
+   - started a republic
+   - Egyptian Nationalism + Arab Nation
+ - Nasser
+   - Great Britain and France control Suez ($$$)
+   - asked the USSR for support w/ arms

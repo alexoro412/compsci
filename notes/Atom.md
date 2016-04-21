@@ -1,16 +1,51 @@
 # Dashboard
 ---
 ## Homework
- - ENG 1: Study Vocab & Grammar Book
- - PHY 2: DONE
- - ALG 3: NONE
- - -CS 4: HW and Lab
- - ZHO 5: DONE
+ - ENG 1: Gatsby 7
+ - PHY 2: NONE
+ - ALG 3: Review, 8.6
+ - -CS 4: Review
+ - ZHO 5: Workbook
  - OFF 6: NONE
- - HST 7: Chapter 5
+ - HST 7: Research
+ - -3D 8: another robot
+ - OTH 9: Call camp invention
+
+Potential Internships
+- Linux Admin : CPR or Arapahoe Libraries, Denver Water
+- Sysadmin : Travel Port
+- Systems Engineer : Buffer, FullContact
+- Software Engineer : SendGrid, Tack, 303 Software, Appit ventures, TrackVia, ReadyTalk
+- Game Dev : Dire Wolf Digital
+- Clouds : snaplogic, Cloud Elements, Hosting
+- Toys : Ubooly
+- Misc : Knowledge Factor
+
+CPR
+DMNS
+Software engineering companies
+Libraries
+Arapahoe Public Libraries
+Engineering Firms
+- Otterbox
+
+Tack Mobile: Meeting this week
+Cloud Elements: Reply to email
+Secure Set: Get in contact
+
+---
+## Tomorrow -- RESCHEDULE WITH KREILEIN
+7: NOT READY (QUIZ)
+2: READY
+3: READY
+5: READY
+6: READY
+
+1: NOT READY
+4: READY
 
  - W:
-   - #a52b27 -> #FF802B
+   - #A52B27 -> #FF802B
    - #752927 -> #802BFF
    - Fix main BaseBoard
    - Talk about an actual server setup
@@ -33,17 +68,14 @@
    - Specialties
    - Practical Programming
    - Servers/APIs
----
-## Tomorrow
-5: NOT READY
-7: READY
-1: READY
-3: READY
-4: READY
-
-2: READY
-6: READY 
-
+     - Next year in AT
+   - Engine Layout
+     - Interfaces
+       - Visible
+     - Classes
+       - GameObject
+       - Light
+       - Occluder
 
 ## English paper mistakes
  - Period at the end of a quote

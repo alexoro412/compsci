@@ -114,3 +114,233 @@
  - Nasser
    - Great Britain and France control Suez ($$$)
    - asked the USSR for support w/ arms
+
+## Suez and the Six day war
+ - 3 main causes
+   - Nasser -- threats and aggressive statements
+   - Americans would not stop Israeli attack
+   - Israel determined to attack & expand
+   - Pre-existing
+   - Arab nationalism
+   - Suez canal
+ - '56 Suez Crisis - US condemns
+   - Israel
+     - increase in immigration
+     - increase in concern
+   - Egypt & Syria
+     - rise in arab nationalism
+     - try United Arab Republic
+     - Egypt identifies as a leader of pan arab nationalism
+   - US / USSR
+     - Cold war influence
+     - Oil concerns
+     - USSR allies with Syria
+   - Palestinians
+     - Refugees
+     - homeless, upset, organizing politically
+     - guerrilla raids
+   - _**Tensions are through the roof**_
+ - Un resolution 242
+   - return of occupied lands
+   - "Just" settlement of refugee problem
+ - Arabs and Israelis Reading
+   - Water usage with regards to the Jordan river was a major source of tension
+   - Israel performed a massive irrigation project, diverting water from the river into the Negev
+   - Development of youth militia groups. Separate from government because they believed Arab nations were not serious about confronting Israel  (Fatah)
+   - Egypt wanted to control the PLO (Palestinian Liberation organization)
+   - Jordan received arms from the West
+   - US providing arms for Israel and Jordan
+   - Development of atomic and ballistic weaponry
+   - Egypt blocked off the straits
+   - UN Resolution 242
+   - Khartoum resolution -- arab nations would not recognize, negotiate with, or accept peace with Israel
+   - Israel enforced Law in east Jerusalem
+   - Syria
+     - Call for Syrian nationalism to replace pan-arab nationalism
+     - Felt like the other arab nations would never actually do anything
+     - Syrians felt like they were defending themselves
+     - Took on the took on the responsibility of fighting for the Palestinians
+   - Tensions went up in the years leading up to the 1967 war because Arab nations were uniting and acting more aggressive towards Israel, creating a threatening environment for Israel, forcing Israel to respond in kind with more threatening behavior, leading to a positive feedback cycle.
+
+## Yom Kippur war
+- 1973
+- Egypt & Syria win early battles before Israel regroups
+- Israel is shocked - no longer invincible
+- Arabs encouraged
+
+## Lebanese Civil War - 1975 - 1982
+- International community very unhappy with Israel
+  - Sabra and Shatillah 1982
+- PLO moves to Tunisia
+
+## The PLO and Camp David reading
+- Sadat - US $ and Sinai
+- Israel - Recognition
+- after 1948, the PLO decided they needed to push the arabs into another war in order to defeat Israel
+- Fatah
+  - founded in 1959
+  - founded by Palestinian exiles in Kuwait
+  - Fatah means conquest
+- PLO
+  - founded in 1964
+  - Palestinian Liberation organization
+  - in 1969 leaders in Fatah became dominant in the PLO
+  - PLO became independent of arab states
+  - PLO believed Israel had no right to be there, and should be destroyed. All Israels should be exiled
+  - Other groups in PLO sometimes acted differently than Fatah, which was the largest group
+  - PLO switched to attacking Israeli citizens, they believed it mattered more
+  - Arab League declared PLO to be the sole legitimate representative of the Palestinian people
+  - Used to be based in Jordan, but moved to Lebanon
+- Munich 1972
+  - Black September (A PLO Organization) killed 11 Israeli athletes at the olympics
+- Lebanon 1982
+  - Israel invaded lebanon to destroy the PLO
+  - PLO relocated to Tunisia
+- Arafat chooses peace
+  - They attempted to reconcile with the USA's demands, but divisions within the PLO made that not work
+  - 1988 Arafat accepts the existence of Israel, USA's demands
+  - PLO would now control the West Bank and Gaza
+
+## Camp David Accords
+- 1978
+- US: Carter
+- Egypt: Anwar Sadat
+- Israel: Ben Gurion
+- Egypt recognizes Israel in exchange for Sinai Peninsula and a decrease in settlements
+  - World player
+  - Peace is possible
+- PLO is not included
+
+## Teflon Guerilla
+- Arafat's great achievement: Making Palestinians relevant prime time material
+- Palestinians were treated like Native Americans, confined to reservations
+- "Arafat did for the Palestinians what the Zionists did for the Jews"
+- Arafat a revolutionary from birth
+- Degree in Civil Engineering from Cairo University
+- Arafat was great at compromising
+- He couldn't acknowledge Israel's right to exist, otherwise his group would fragment
+
+## Intifada
+- Palestinian protests against Israeli troops
+- Palestinians only see the bad side of their situation, Israelis only see the good side of the Palestinian's situation
+- World wide opinion - Israel is the brutal oppressor
+- America starting to think Israel needs to compromise
+- Jordan gave up control of the West Bank, forcing the US and Israel to talk with the PLO
+- Hamas founded in 1988
+- Hamas far more violent than the PLO
+- Iraq war - Arafat and Palestinians supported Hussein - Consequences
+- Madrid talks 1991-1992 - Israel peace talks with the Palestinians
+- Oslo Accord - Palestinian authority in Gaza and West Bank
+- Lebanon and Syria still threatening to Israel
+- "Palestinian Surrender"
+- Many Israelis still felt threatened by the Palestinians
+- Prime Minister Yitzhak Rabin assassinated, 4 november 1995
+- 1996 Netanyahu elected prime minister
+-
+
+## Oslo Accords Documents
+- Intifada - "To Shake Off"
+- _NOT_ PLO led
+- protests
+  - boycotts
+  - strikes
+  - stone throwing
+- IDF responds with force
+  - 1200 dead Palestinians - 23% under 16
+  - 30,000 children wounded
+  - curfew
+- Hamas
+  - based in Gaza
+  - Hardliners
+    - no compromise
+    - no recognition of Israel
+    - prone to violence
+    - suicide bombings
+    - Target IDF and civilians
+  - built schools, hospitals, mosques, etc...
+
+## Oslo Accords
+- Palestinian Authority
+  - "self government" in gaza and the west bank
+- Mutual recognition
+- Peace
+- Settlements remain in Gaza and the West Bank
+
+## Road to Oslo 1993 Accords
+- Israel more likely to talk to PLO because Hamas is so much more dangerous
+- Israel Influences
+  - Decrease in International Support (Intifada, Sabra and Shatillah)
+  - Terrorism (suicide bombings)
+  - Economic protests
+- PLO Influences
+  - Saw failure in current approach
+  - Hamas
+  - no money (Gulf War Problems)
+- Reactions
+  - Hope
+  - Likud Party (right in Israel)
+  - hardline Palestinians in PLO and Hamas
+
+## Gulf war -- 1990-1991
+- Iraq invades Kuwait
+- US intervened to defend Kuwait
+- PLO supports Iraq and Hussein
+  - PLO cut off ($) from oil rich countries - S.A.
+
+## Settlements
+- "Illegal"
+- Subsidized & encouraged by Israel
+- Infrastructure from Israel as well
+  - Water
+  - Electricity
+  - Roads
+  - Soldiers
+
+## Checkpoints
+- on "Green Line"
+  - separating Israel from West bank
+- also between Palestinian villages
+
+## Occupation
+- checkpoints
+- Curfew as a punishment
+
+## Test
+- 1975 - 1982 Lebanese Civil War
+  - PLO Sided with Shiite Muslims
+  - Israel supported the Christians
+  - Sabra and Shatillah
+  - Israel looked bad
+- PLO (& Arafat)
+  - Constantly fighting for Palestinian rights and territory
+  - The favorite cause of Arab countries
+  - Eventually acknowledged Israel
+  - contains many organizations within it
+- 1978 Camp David Accords
+  - Peace negotiations brokered between Egypt and Israel by US
+  - Egypt regained Sinai
+  - Israel would decrease settlements
+  - PLO was not included
+- Intifada
+  - Arabs rebellion against Israel
+  - largely composed of youth
+  - made Israel look like the oppressors
+- Hamas
+  - Founded in '87
+  - Provided civil services
+  - fostered radical extremism against Israel
+  - formed during the Intifada
+- 1993 Oslo Peace Accords
+  - PLO and Israel peace negotiations
+  - Peace
+  - Palestinian authority in west bank and Gaza
+  - mutual recognition
+  - did not deal with settlements
+- Settlements
+  - Israeli settlements in Palestinian territory
+  - technically illegal, except that Israel says Palestine isn't a country
+  - very wealthy communities
+  - connected to Israeli infrastructure
+- Checkpoints
+  - Israeli troops stopping Palestinians, and delaying them for hours at a time
+  - Made Israel look bad

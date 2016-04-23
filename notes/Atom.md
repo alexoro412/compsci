@@ -29,20 +29,20 @@ Arapahoe Public Libraries
 Engineering Firms
 - Otterbox
 
-Tack Mobile: Meeting this week
-Cloud Elements: Reply to email
-Secure Set: Get in contact
+Tack Mobile: Wait
+Cloud Elements: Wait
+Secure Set: Meeting
 
 ---
-## Tomorrow -- RESCHEDULE WITH KREILEIN
-7: NOT READY (QUIZ)
-2: READY
-3: READY
-5: READY
-6: READY
-
+## Tomorrow
 1: NOT READY
+3:
 4: READY
+6: READY
+7: NOT READY
+
+2: NOT READY (TEST)
+5:
 
  - W:
    - #A52B27 -> #FF802B

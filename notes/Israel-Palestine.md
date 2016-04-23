@@ -344,3 +344,15 @@
 - Checkpoints
   - Israeli troops stopping Palestinians, and delaying them for hours at a time
   - Made Israel look bad
+
+## Israel parties
+- Liberal
+  - Labor party
+  - Yitzhak Rabin (Oslo)
+  - Barak
+- Conservative
+  - Likud Party
+  - "Bibi" Benjamin Netanyahu
+  - Pro settlements (or at least not anti settlements)
+  - less desire for a two state solution
+  - Emphasis on security

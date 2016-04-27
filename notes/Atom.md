@@ -1,15 +1,22 @@
 # Dashboard
 ---
+## Uninstall
+- Equil Note
+
 ## Homework
- - ENG 1: Gatsby 7
- - PHY 2: NONE
- - ALG 3: Review, 8.6
- - -CS 4: Review
- - ZHO 5: Workbook
- - OFF 6: NONE
- - HST 7: Research
- - -3D 8: another robot
- - OTH 9: Call camp invention
+- ENG 1: Thesis
+- PHY 2:
+- ALG 3:
+- -CS 4: Study
+- ZHO 5:
+- OFF 6: NONE
+- HST 7: Research, prep for essay
+  - Gather remaining research on North Korea's economy
+- -3D 8: final project work
+  - Small mammal
+  - Rigging
+  - Hair/Fur
+- OTH 9: Call camp invention
 
 Potential Internships
 - Linux Admin : CPR or Arapahoe Libraries, Denver Water
@@ -27,55 +34,63 @@ Software engineering companies
 Libraries
 Arapahoe Public Libraries
 Engineering Firms
-- Otterbox
+Otterbox
 
-Tack Mobile: Wait
-Cloud Elements: Wait
-Secure Set: Meeting
+Possible Fields:
+- Cybersecurity
+- Game Development
+- Space
+
+Tack Mobile: Follow Up
+Cloud Elements: Follow Up
+Secure Set:
+- David Kennedy Assignment
+- CCNA
+- CompTia Security +
+- Give it a try for 3 months, then reevaluate if security is for me
+
+Dream Jobs:
+- Game Designer/Developer
+- CS Teacher / School Sysadmin
+- Sysadmin with lots of free time
 
 ---
 ## Tomorrow
+5:
+7:
 1: NOT READY
 3:
 4: READY
-6: READY
-7: NOT READY
 
-2: NOT READY (TEST)
-5:
+2:
+6:
 
- - W:
-   - #A52B27 -> #FF802B
-   - #752927 -> #802BFF
-   - Fix main BaseBoard
-   - Talk about an actual server setup
-
- - C:
-   - Algorithms
-     - Seam Carving with Dijkstra
-       - Java BufferedImage/Image
-       - Step 1: Calculate energies (output image with energies)
-       - Step 2: Calculate Seams (output image with seams)
-     - Pathfinding in games
-       - Custom navmesh
-       - Tile based path finding
-   - Rewrite KSP helper (not in haskell)
-     - Java applet -- Or API
-   - Data Structures
-   - Threading
-     - Java Threading
-   - Memory Management
-   - Specialties
-   - Practical Programming
-   - Servers/APIs
-     - Next year in AT
-   - Engine Layout
-     - Interfaces
-       - Visible
-     - Classes
-       - GameObject
-       - Light
-       - Occluder
+- C:
+ - Algorithms
+   - Seam Carving with Dijkstra
+     - Java BufferedImage/Image
+     - Step 1: Calculate energies (output image with energies)
+     - Step 2: Calculate Seams (output image with seams)
+   - Pathfinding in games
+     - Custom navmesh
+     - Tile based path finding
+ - Rewrite KSP helper (not in haskell)
+   - Java applet -- Or API
+ - Data Structures
+ - Threading
+   - Java Threading
+ - Memory Management
+ - Specialties
+ - Practical Programming
+ - Servers/APIs
+   - Next year in AT
+ - Engine Layout
+   - Interfaces
+     - Visible
+   - Classes
+     - GameObject
+     - Light
+     - Occluder
 
 ## English paper mistakes
  - Period at the end of a quote

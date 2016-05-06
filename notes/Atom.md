@@ -3,15 +3,19 @@
 ## Uninstall
 - Equil Note
 
+## Internships
+- Follow up:
+  - Tack Mobile
+  - Cloud Elements
+
 ## Homework
-- ENG 1: Thesis
-- PHY 2:
-- ALG 3:
+- ENG 1: Rough Draft
+- PHY 2: DONE
+- ALG 3: 9.6-9.7, Jupyter
 - -CS 4: Study
-- ZHO 5:
+- ZHO 5: DONE
 - OFF 6: NONE
-- HST 7: Research, prep for essay
-  - Gather remaining research on North Korea's economy
+- HST 7: Start Writing
 - -3D 8: final project work
   - Small mammal
   - Rigging
@@ -41,8 +45,9 @@ Possible Fields:
 - Game Development
 - Space
 
+ReadyTalk: wait
 Tack Mobile: Follow Up
-Cloud Elements: Follow Up
+Cloud Elements: wait
 Secure Set:
 - David Kennedy Assignment
 - CCNA
@@ -51,19 +56,29 @@ Secure Set:
 
 Dream Jobs:
 - Game Designer/Developer
+  - Creative work
+  - Development
 - CS Teacher / School Sysadmin
+  - Education
+  - Developing projects with / for students
+  - Security
+  - Good degree of free time
 - Sysadmin with lots of free time
-
+  - might not exist...
 ---
-## Tomorrow
-5:
-7:
-1: NOT READY
-3:
-4: READY
+## Tonight
+- history PAPER
+- study physics
 
-2:
-6:
+## Tomorrow
+4: READY
+6: READY (WORK ON PAPER)
+7: NOT READY (PAPER DUE)
+2: READY (TEST)
+3: READY
+
+1: NOT READY (PAPER DUE)
+5: READY?
 
 - C:
  - Algorithms

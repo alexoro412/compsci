@@ -356,3 +356,43 @@
   - Pro settlements (or at least not anti settlements)
   - less desire for a two state solution
   - Emphasis on security
+
+
+## Mahmoud Abbas
+
+- Wanted peace, did not like Palestinian violence
+- Power struggle with Arafat over security services, because Abbas wanted to use them to enforce non-violence
+-
+
+- From the Beilin-Abu Mazen Agreement
+- Settlements
+  - When the Palestinian state is created, all existing Israeli settlements will fall under Palestinian sovereignty, and the settlers will be offered Palestinian citizenship
+- Jerusalem
+  - Jerusalem would be called "The City of Jerusalem"
+  - One high council municipality
+  - Two sub-municipalities, one Palestinian one Israeli
+  - Guaranteed 2/3 majority in Israel
+  - The western part would be the capital of Israel, the eastern part the capital of Palestine
+  - Guaranteed freedom of worship and access to holy sites
+
+Fatah party member. After Arafat's death Fatah saw Abbas as the successor
+endorsed by Fatah for the 2005 presidential election
+no more Palestinian violence
+Israelis pressured him to stop the violence
+
+Extended his presidency at the end of 2009
+Corrupt
+Turned down an opportunity
+
+Israelis view him as a nonthreatening, violence-abhorring, strategic asset
+
+Supported by Pope Benedict XVI
+
+Nazis and Zionists are connected
+
+Wants clear and well defined borders. Once left a negotiation because no maps were drawn out
+Reincorporate settlements into Palestine, settlers may become citizens
+Split Jerusalem among the states, and have a greater council that is representative of both nations.
+Wants two, well defined, independent states
+
+Wants Palestine to have credibility and be taken seriously 

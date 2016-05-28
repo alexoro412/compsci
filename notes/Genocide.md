@@ -186,37 +186,37 @@
  - Og. 52
 
 ## Acronyms
- | Acronyms | Description |
- | :------- | :---------- |
- | PARMEHUTU | Hutu political party (early 60s) |
- | UNAR | Tutsi party that supports Tutsi dominance |
- | UNAMIR | UN Peacekeepers |
- | Interhamwe | Extremist Hutu militia, worked for MRND, Against Tutsis and moderate Hutus |
- | RPF | Rwandan Patriotic front. Tutsi exiles against Habyarimana |
- | FAR | Oppose Tutsis |
- | MDR | Opposition group to MRND |
- | NRA | A military group of exiled Tutsis |
+| Acronyms | Description |
+| :------- | :---------- |
+| PARMEHUTU | Hutu political party (early 60s) |
+| UNAR | Tutsi party that supports Tutsi dominance |
+| UNAMIR | UN Peacekeepers |
+| Interhamwe | Extremist Hutu militia, worked for MRND, Against Tutsis and moderate Hutus |
+| RPF | Rwandan Patriotic front. Tutsi exiles against Habyarimana |
+| FAR | Oppose Tutsis |
+| MDR | Opposition group to MRND |
+| NRA | A military group of exiled Tutsis |
 
 ---
 
 # Timeline
- | Date | Event |
- | :--- | :---- |
- | 1898 | Germans |
- | 1918 | Treaty of versailles - Belgian rule start |
- | 1926 | ID Cards |
- | 1959 | 1st Hutu rebellion |
- | 1960 | 1st Elections |
- | 1962 | Belgium withdraws |
- | 1963.1967 | Tutsis killed for the 1st time |
- | 1973 | Habyarimana coup de etat Habyarimana preferred northern hutus, no tutsi repatriation |
- | 1986 | RPF Founded in Uganda |
- | 1989 | Coffee price decreases |
- | 1990 | RPF Invades |
- | 1991 | Interhamwe trains . Tutsis begin being killed |
- | 1993 | Arusha peace accords . Internation pressure on Habyarimana to let refugess back in . Dallaire fax|
- | 1993.1994 | Increase in Interhamwe training and extremist radio |
- | 1994 | plane crash killing Habyarimana. **spark!** |
+| Date | Event |
+| :--- | :----- |
+| 1898 | Germans |
+| 1918 | Treaty of versailles - Belgian rule start |
+| 1926 | ID Cards |
+| 1959 | 1st Hutu rebellion |
+| 1960 | 1st Elections |
+| 1962 | Belgium withdraws |
+| 1963 - 1967 | Tutsis killed for the 1st time |
+| 1973 | Habyarimana coup de etat Habyarimana preferred northern hutus, no tutsi repatriation |
+| 1986 | RPF Founded in Uganda |
+| 1989 | Coffee price decreases |
+| 1990 | RPF Invades |
+| 1991 | Interhamwe trains . Tutsis begin being killed |
+| 1993 | Arusha peace accords . International pressure on Habyarimana to let refugess back in. Dallaire fax |
+| 1993 - 1994 | Increase in Interhamwe training and extremist radio |
+| 1994 | plane crash killing Habyarimana. **spark!** |
 
 ### Dallaire fax
  - Dallaire works for UNAMIR
@@ -294,21 +294,21 @@ _1/27/2016_ - _1/28/2016_
  - Bosniaks
  - Serbs
 
-| Ethnicity | percentage.(in Bosnia) |
+| Ethnicity | percentage (in Bosnia) |
 | :-------- | :--------- |
 | Croats | 20% |
 | Serbs | 40% |
 | Bosniak Muslims | 40% |
 
 ## Timeline
- | Date | Event |
- | :--- | :---- |
- | 1980 | Tito dies |
- | 1990 | Communism declines. Serbia wanted united country, not a federation of states. Including Serbs in Croatia |
- | 1991 | Croatia and Slovenia declare independence . .Serbs offended -> Serbs living in Croatia declare their own country within "new" Croatia -> Try to expand and unite with Serbia -> "Greater Serbia". WAR  |
- | 1992 | Croats and Muslims unite, call for independence.Bosnia declares independence : War b/w Federal republic on Yugoslavia (Serbia & Montenegro) |
- | 1993 | UN declares Srebrenica a "safe area" . no weapons . Both sides violated |
- | 1995 | Supply convoys stopped . food, water, medicine, fuel, ammo . for muslims and UN soldiers .start starving . July 10: Serb army takes over . Srebrenica Massacre |
+| Date | Event |
+| :--- | :---- |
+| 1980 | Tito dies |
+| 1990 | Communism declines. Serbia wanted united country, not a federation of states. Including Serbs in Croatia |
+| 1991 | Croatia and Slovenia declare independence . .Serbs offended -> Serbs living in Croatia declare their own country within "new" Croatia -> Try to expand and unite with Serbia -> "Greater Serbia". WAR  |
+| 1992 | Croats and Muslims unite, call for independence.Bosnia declares independence : War b/w Federal republic on Yugoslavia (Serbia & Montenegro) |
+| 1993 | UN declares Srebrenica a "safe area" . no weapons . Both sides violated |
+| 1995 | Supply convoys stopped . food, water, medicine, fuel, ammo . for muslims and UN soldiers .start starving . July 10: Serb army takes over . Srebrenica Massacre |
 
 ---
 

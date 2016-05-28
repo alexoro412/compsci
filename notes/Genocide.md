@@ -208,14 +208,14 @@
  | 1959 | 1st Hutu rebellion |
  | 1960 | 1st Elections |
  | 1962 | Belgium withdraws |
- | 1963<br/>1967 | Tutsis killed for the 1st time |
+ | 1963.1967 | Tutsis killed for the 1st time |
  | 1973 | Habyarimana coup de etat Habyarimana preferred northern hutus, no tutsi repatriation |
  | 1986 | RPF Founded in Uganda |
  | 1989 | Coffee price decreases |
  | 1990 | RPF Invades |
- | 1991 | Interhamwe trains <br/> Tutsis begin being killed |
- | 1993 | Arusha peace accords <br/> Internation pressure on Habyarimana to let refugess back in <br/> Dallaire fax|
- | 1993<br/>1994 | Increase in Interhamwe training and extremist radio |
+ | 1991 | Interhamwe trains . Tutsis begin being killed |
+ | 1993 | Arusha peace accords . Internation pressure on Habyarimana to let refugess back in . Dallaire fax|
+ | 1993.1994 | Increase in Interhamwe training and extremist radio |
  | 1994 | plane crash killing Habyarimana. **spark!** |
 
 ### Dallaire fax
@@ -294,7 +294,7 @@ _1/27/2016_ - _1/28/2016_
  - Bosniaks
  - Serbs
 
-| Ethnicity | percentage<br/>(in Bosnia) |
+| Ethnicity | percentage.(in Bosnia) |
 | :-------- | :--------- |
 | Croats | 20% |
 | Serbs | 40% |
@@ -304,11 +304,11 @@ _1/27/2016_ - _1/28/2016_
  | Date | Event |
  | :--- | :---- |
  | 1980 | Tito dies |
- | 1990 | Communism declines <br/> Serbia wanted united country, not a federation of states. Including Serbs in Croatia |
- | 1991 | Croatia and Slovenia declare independence <br/> <br/>Serbs offended -> Serbs living in Croatia declare their own country within "new" Croatia -> Try to expand and unite with Serbia -> "Greater Serbia"<br/> WAR  |
- | 1992 | Croats and Muslims unite, call for independence<br/>Bosnia declares independence : War b/w Federal republic on Yugoslavia (Serbia & Montenegro) |
- | 1993 | UN declares Srebrenica a "safe area" <br/> no weapons <br/> Both sides violated |
- | 1995 | Supply convoys stopped <br/> food, water, medicine, fuel, ammo <br/> for muslims and UN soldiers <br/>start starving <br/> July 10: Serb army takes over <br/> Srebrenica Massacre |
+ | 1990 | Communism declines. Serbia wanted united country, not a federation of states. Including Serbs in Croatia |
+ | 1991 | Croatia and Slovenia declare independence . .Serbs offended -> Serbs living in Croatia declare their own country within "new" Croatia -> Try to expand and unite with Serbia -> "Greater Serbia". WAR  |
+ | 1992 | Croats and Muslims unite, call for independence.Bosnia declares independence : War b/w Federal republic on Yugoslavia (Serbia & Montenegro) |
+ | 1993 | UN declares Srebrenica a "safe area" . no weapons . Both sides violated |
+ | 1995 | Supply convoys stopped . food, water, medicine, fuel, ammo . for muslims and UN soldiers .start starving . July 10: Serb army takes over . Srebrenica Massacre |
 
 ---
 

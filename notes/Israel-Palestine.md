@@ -395,4 +395,4 @@ Reincorporate settlements into Palestine, settlers may become citizens
 Split Jerusalem among the states, and have a greater council that is representative of both nations.
 Wants two, well defined, independent states
 
-Wants Palestine to have credibility and be taken seriously 
+Wants Palestine to have credibility and be taken seriously

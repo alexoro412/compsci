@@ -164,21 +164,33 @@
 ## May 28th, 29th, 30th
 - 30 minute cycles through each topic
   - RevCon
-    - write details for each term
+    - write details for each term - I
     - Review notes
   - Math
-    - Practice Problems
+    - Practice Problems - I
     - Review Essay Topics
-    - Practice packets
+    - Practice packets - I
   - Mandarin
-    - Study Guide
-    - Skritter
+    - Study Guide - I
+    - Skritter - IIII
   - Physics
-    - Practice Problems
-    - Retake entire practice exam
+    - Retake entire practice exam - I
+      - Problems - I
+      - Multiple Choice - I
     - Re-read old notes
+
 ## May 29th
+1. RevCon - I
+2. Mandarin - I
+3. RevCon
+4. Math
+5. Physics
+
 ## May 30th
+1. RevCon
+2. Mandarin
+3. Math
+4. Physics
 
 # Mandarin - Tuesday May 31st
 
@@ -191,6 +203,8 @@ Essay
 - US Foreign Policy
 - Why: interests/principles
 - Causes of conflicts
+
+### Write Israel is to blame essay
 
 
 # Algebra - Thursday June 2nd
